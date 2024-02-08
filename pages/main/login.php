@@ -27,7 +27,7 @@
 </head>
 <style>
 .hero {
-    background-image: url('../../dist/img/bg-kecantikan-2.jpg');
+    background-image: url('../../dist/img/bg-kecantikan.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

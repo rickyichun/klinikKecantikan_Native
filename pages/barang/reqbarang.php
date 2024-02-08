@@ -202,7 +202,7 @@ function submitall() {
             success: function(data) {
                 console.log(data);
                 if (data == "berhasil" || data == "gagal") {
-                    window.location = 'http://localhost/sikdemo/pages/barang/masterbrg.php';
+                    window.location = 'http://localhost/klinik/pages/barang/masterbrg.php';
                 }
             }
         })
