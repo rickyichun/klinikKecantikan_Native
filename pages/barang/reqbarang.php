@@ -94,7 +94,7 @@ function get_satuan() {
             dataType: 'json',
             method: 'post',
             async: true,
-            url: 'http://localhost/siksugi/pages/control/get.php?mode=1',
+            url: 'http://localhost/klinik/pages/control/get.php?mode=1',
             data: {
                 id: idbrg
             },
@@ -137,7 +137,7 @@ function plus() {
                 dataType: 'json',
                 method: 'post',
                 async: true,
-                url: 'http://localhost/siksugi/pages/control/get.php?mode=1',
+                url: 'http://localhost/klinik/pages/control/get.php?mode=1',
                 data: {
                     id: idbrg
                 },
@@ -191,7 +191,7 @@ function submitall() {
             dataType: "json",
             method: "post",
             async: true,
-            url: 'http://localhost/siksugi/pages/control/insert.php?mode=15',
+            url: 'http://localhost/klinik/pages/control/insert.php?mode=15',
             data: {
                 count: count,
                 tgl: tgl,
@@ -202,7 +202,7 @@ function submitall() {
             success: function(data) {
                 console.log(data);
                 if (data == "berhasil" || data == "gagal") {
-                    window.location = 'http://localhost/siksugi/pages/barang/masterbrg.php';
+                    window.location = 'http://localhost/sikdemo/pages/barang/masterbrg.php';
                 }
             }
         })

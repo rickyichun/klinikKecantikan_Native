@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-12">
                     <h4>
-                        Klinik dr. Sugi
+                        Demo Klinik
                         <!-- <small class="float-right">Date: 2/10/2023</small> -->
                     </h4>
                     <b>BUKTI BOOKING </b><br>

@@ -6,9 +6,9 @@
         <section class="invoice">
             <!-- title row -->
             <div class="row">
-                <img src="../../dist/img/sugilogo.png" class="mr-4 ml-3" alt="dr. sugi">
+                <img src="../../dist/img/klinikdemo.png" class="mr-4 ml-3" alt="Klinik Demo">
                 <h4>
-                    <b>dr. SUGI CLINIC AESTHETIC <br> CENTER</b>
+                    <b>Klinik Demo <br> CENTER</b>
                     <!-- <small class="float-right">Date: 2/10/2023</small> -->
                 </h4>
                 <div style="margin-left:300px">

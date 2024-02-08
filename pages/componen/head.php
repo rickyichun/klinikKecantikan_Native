@@ -13,7 +13,7 @@ $role= $_SESSION['role'];
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>dr Sugi | Aesthetic Center</title>
+    <title>Klinik Demo</title>
     <link rel="shortcut icon" type="image/x-icon" href="../../dist/img/favicon.ico">
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="../../plugins/fontawesome-free/css/all.min.css">

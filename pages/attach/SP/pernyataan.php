@@ -55,7 +55,7 @@ $dokter      = mysqli_fetch_array($qdokter);
     <p class="ms-5 me-5">bersedia mengikuti prosedure<br>Tindakan : <?php echo $paket['namapkt']; ?></p>
     <!-- <p class="ms-4 me-4"></p> -->
     <p class="ms-5 me-5">Saya juga secara sadar, sehat dan tanpa paksaan menyetujui perihal pernyataan ini dengan klinik
-        dr SUGI Aesthetic Center Surabaya </p>
+        Demo Klinik </p>
     <p class="ms-5 me-5">Dengan ini saya berjanji tidak akan menuntut atau menimbulkan hal yang merugikan terhadap
         klinik baik secara materil ataupun inmateril. </p>
     <p class="ms-5 me-5">Tidak mengambil gambar / memvideo tindakan-tindakan selama proses tanpa persetujuan pihak

@@ -175,7 +175,7 @@
         <p class="MsoListParagraphCxSpFirst justify-indent"><span class="text">1.<span class="nomor">&nbsp;&nbsp;
                 </span></span><span class="text">Dengan sadar
                 tanpa paksaan dari pihak manapun meminta kepada pihak </span><span lang=EN-US class="text">Klinik dr.
-                SUGI Aesthetic Center</span><span class="text"> untuk dilakukan tindakan OPERASI
+                Klinik Demo</span><span class="text"> untuk dilakukan tindakan OPERASI
                 ATAS PERMINTAAN SENDIRI yang merupakan hak saya / sebagai pasien.</span></p>
 
         <p class="MsoListParagraphCxSpMiddle justify"><span class="text">Tindakan yang saya inginkan :</span></p>
@@ -186,15 +186,15 @@
 
         <p class="MsoListParagraphCxSpMiddle justify"><span class="text">Dan saya memberi wewenang
                 sepenuhnya kepada Dokter Aesthetic untuk dilakukan operasi kepada diri saya di </span><span lang=EN-US
-                class="text">Klinik dr. SUGI
+                class="text">Demo Klinik
                 Aesthetic Center</span></p>
 
         <p class="MsoListParagraphCxSpMiddle justify"><span lang=EN-US class="text">&nbsp;</span></p>
 
         <p class="MsoListParagraphCxSpMiddle justify-indent"><span class="text">2.<span class="nomor">&nbsp;&nbsp;
                 </span></span><span class="text">Saya telah
-                memahami sepenuhnya penjelasan yang diberikan dari pihak </span><span lang=EN-US class="text">Klinik dr.
-                SUGI
+                memahami sepenuhnya penjelasan yang diberikan dari pihak </span><span lang=EN-US class="text">Klinik
+                Demo
                 Aesthetic Center</span><span class="text">
                 mengenai prosedure operasi dan kemungkinan / konsekuensi terbaik sampai dengan
                 terburuk atas keputusan yang saya ambil, serta tanggung jawab saya dalam
@@ -213,7 +213,7 @@
         <p class="MsoListParagraphCxSpLast justify-indent"><span class="text">4.<span class="nomor">&nbsp;&nbsp;
                 </span></span><span class="text">Atas keputusan
                 saya ini, pihak dari </span><span lang=EN-US class="text">Klinik
-                dr. SUGI Aesthetic Center</span><span class="text">
+                dr. Klinik Demo</span><span class="text">
                 telah memberikan penjelasan mengenai alternatif pengobatan selanjutnya</span></p>
 
         <p class="MsoNormal justify"><span class="text">Demikian
